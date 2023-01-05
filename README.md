@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## ScreenShots
+<br>
+<img src="https://raw.githubusercontent.com/AnilNITT/Restaurent-APP-FirebaseDB-/master/Capture.PNG">
+<br>
+<img src="https://raw.githubusercontent.com/AnilNITT/Restaurent-APP-FirebaseDB-/master/Capture4.PNG">
+<br>
+<img src="https://raw.githubusercontent.com/AnilNITT/Restaurent-APP-FirebaseDB-/master/Capture1.PNG">
+<br>
+<img src="https://raw.githubusercontent.com/AnilNITT/Restaurent-APP-FirebaseDB-/master/Capture3.PNG">
+<br>
+
 ## Available Scripts
 
 In the project directory, you can run:
